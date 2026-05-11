@@ -2,7 +2,7 @@
 
 ```
 
-kind create cluster --name airflow-lab --config aiops-lab-kind-confing.yaml
+kind create cluster --name airflow-lab --config aiops-lab-kind-config.yaml
 
 ```
 
